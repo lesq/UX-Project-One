@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A02C63B-9B58-4AEA-9658-DCFD27DFE3C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 111,
+    "width": 145,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "polygon",
+      "id": "48CF0D79-BB64-4E67-8B9B-A9492EA386C7"
+    },
+    {
+      "class": "polygon",
+      "id": "FE19DF09-9CC7-41D9-AF4E-95F9507B4A58"
+    },
+    {
+      "class": "polygon",
+      "id": "5732AFFB-6F55-4F1F-809D-F36A894BFBD4"
+    },
+    {
+      "class": "polygon",
+      "id": "6A3E6BD6-1016-4172-AB22-A9E4BF16EEDC"
+    },
+    {
+      "class": "polygon",
+      "id": "15B233A8-6AAB-41FD-9B39-6346DB8A7F31"
+    },
+    {
+      "class": "polygon",
+      "id": "397DA787-3281-484C-B83B-F7B29463391F"
+    },
+    {
+      "class": "polygon",
+      "id": "92D6BBEB-3FC6-4FF3-827A-A950A140EA14"
+    },
+    {
+      "class": "polygon",
+      "id": "9CFE55C1-9426-4F79-BFAC-B900F4F6C39E"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

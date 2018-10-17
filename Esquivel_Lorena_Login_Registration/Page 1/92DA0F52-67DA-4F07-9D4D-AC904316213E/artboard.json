@@ -1,0 +1,146 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9098039215686274,
+    "green": 0.9450980392156862,
+    "red": 0.9568627450980393
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "92DA0F52-67DA-4F07-9D4D-AC904316213E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46645429-254B-4332-9E6A-01AA8F812E38",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A725040D-11AC-43A4-BC28-742D10340D5C",
+    "height": 667,
+    "width": 375,
+    "x": 1006,
+    "y": -163
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "B45E819D-8CE2-4ED8-969C-C64619B92D1C",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FEDDFAB7-AA1C-462B-BD83-134C05505708",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "86E3A2CE-E86B-4FF0-AD8E-323D2922D451"
+    },
+    {
+      "class": "text",
+      "id": "1160DC34-8B2A-40F6-8A44-C15952FB17BA"
+    },
+    {
+      "class": "rectangle",
+      "id": "3CD9D970-0000-4D36-8275-A7D3221C2379"
+    },
+    {
+      "class": "text",
+      "id": "7F8AAD98-645A-4CB6-A472-6326DB15627D"
+    },
+    {
+      "class": "rectangle",
+      "id": "C606AC63-4FC8-41BE-A60D-F96AAF7C898B"
+    },
+    {
+      "class": "text",
+      "id": "B00D0DB3-E7F9-491C-B9E8-094153D1F9BE"
+    },
+    {
+      "class": "shapePath",
+      "id": "2A10198E-0E13-458A-8776-EE46516FB863"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5364B893-1158-49FF-B0E4-999DF940C157"
+    },
+    {
+      "class": "shapePath",
+      "id": "1620A789-C82A-401F-AE35-DE9EC50F0BD4"
+    },
+    {
+      "class": "group",
+      "id": "AFEA8A40-C318-49FE-BE6C-95D66ECDDDAE"
+    },
+    {
+      "class": "shapePath",
+      "id": "1206294D-E386-4DBF-A74F-E77B63D6FB36"
+    },
+    {
+      "class": "group",
+      "id": "54DAA1B7-C909-4B96-9E0D-A7BF55EFC8F0"
+    }
+  ],
+  "name": "Screen 3 Forgot Password/Email",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "89326288-B7A9-4172-AF07-749AC0991295",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9AFA9065-74DD-48DF-8D6D-02BB0F0FB7D9",
+    "guides": [
+    ]
+  }
+}
